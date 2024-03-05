@@ -12,13 +12,13 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LucasWerppFranco&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h1 align="center">Hey There! 👋</h1>
 
 ###
 
@@ -30,7 +30,9 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
 
@@ -38,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -83,6 +85,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="left"></h1>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
