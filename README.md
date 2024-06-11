@@ -26,8 +26,7 @@
 
 ###
 
-<p align="left">Hello! I am Lucas Franco. I'm a back end developer and I'm looking to specialize in Pentest.<br><br>-> 💪 My Main Skills:<br><br>• Self-education.<br>• Self-management.<br><br>-> 🏆 My Goals:<br><br>• Engage in innovative solutions.<br>• Acquire more knowledge.<br>• Archive knowledge.<br><br>-> 📖 My Story:<br><br>At the beginning of 2022, I entered my second year of high school on a technical systems development course, this was my first experience with programming. Later that year, I joined a cybersecurity club, it was at that moment that I decided to specialize in this area. At the moment, I have already graduated from high school, and I am studying through contact to acquire the necessary knowledge before starting college.</p>
-
+<p align="left">Hello! I'm a back end developer and I'm looking to specialize in Pentest.<br><br>-> 💪 My Main Skills:<br><br>• Self-education.<br>• Self-management.<br><br>-> 🏆 My Goals:<br><br>• Engage in innovative solutions.<br>• Acquire more knowledge.<br>• Archive knowledge.<br><br>-> 
 ###
 
 <br clear="both">
