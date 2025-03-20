@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="250" src="https://c.tenor.com/eFgn_9-9DbYAAAAC/openbsd-puffy.gif"  />
+<img align="right" height="350" src="https://c.tenor.com/eFgn_9-9DbYAAAAC/openbsd-puffy.gif"  />
 
 ###
 
