@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hello! I'm a back end developer and I'm looking to specialize in Pentest.<br><br>-> 💪 My Main Skills:<br><br>• Self-education.<br>• Self-management.<br><br>-> 🏆 My Goals:<br><br>• Engage in innovative solutions.<br>• Acquire more knowledge.<br>• Archive knowledge.<br>
+<p align="left">Hello! I'm a computer science studant, I have 3 years of experience in coding and cybersecurity and I'm looking to specialize in Pentest.<br><br>-> 💪 My Main Skills:<br><br>• Self-education.<br>• Self-management.<br><br>-> 🏆 My Goals:<br><br>• Engage in innovative solutions.<br>• Acquire more knowledge.<br>• Archive knowledge.<br>
   
 ###
 
